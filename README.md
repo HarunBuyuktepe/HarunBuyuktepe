@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harun</h1>
 <h3 align="center">Software Developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harunbuyuktepe&label=Profile%20views&color=0e75b6&style=flat" alt="harunbuyuktepe" /> </p>
+
 
 - 🔭 I’m currently working on **Turkiye Finans Bank**
 
