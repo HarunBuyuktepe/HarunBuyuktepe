@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Turkiye Finans Bank**
+- 🔭 I’m currently working at **Turkiye Finans Bank**
 
 - 🌱 I’m currently learning **next.js**
 
