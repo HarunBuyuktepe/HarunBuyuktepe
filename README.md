@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harun</h1>
 <h3 align="center">Software Developer from Turkey</h3>
 
-
-
-- 🔭 I’m currently working at **Turkiye Finans Bank**
-
 - 🌱 I’m currently learning **next.js**
 
 - 📫 How to reach me **harun.buyuktepe@gmail.com**
