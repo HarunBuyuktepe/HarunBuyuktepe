@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harun</h1>
 <h3 align="center">Software Developer from Turkey</h3>
 
-- 🌱 I’m currently learning **next.js**
+- 🌱 I’m currently learning **Rust, Dart and Flutter**
 
 - 📫 How to reach me **harun.buyuktepe@gmail.com**
 
